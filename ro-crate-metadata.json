@@ -4,7 +4,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2022-04-15T13:12:10+00:00",
+            "datePublished": "2022-04-15T13:20:16+00:00",
             "hasPart": [
                 {
                     "@id": "test-data/"
@@ -76,10 +76,10 @@
                     "@id": ".git/objects/info/"
                 },
                 {
-                    "@id": ".git/objects/pack/pack-c7b014b13c8d11d5b4c2e693040a78c380a2cfaf.pack"
+                    "@id": ".git/objects/pack/pack-5f6ca7f495bb6595fe3a0626c17816eb70e7ec8c.idx"
                 },
                 {
-                    "@id": ".git/objects/pack/pack-c7b014b13c8d11d5b4c2e693040a78c380a2cfaf.idx"
+                    "@id": ".git/objects/pack/pack-5f6ca7f495bb6595fe3a0626c17816eb70e7ec8c.pack"
                 },
                 {
                     "@id": ".git/info/exclude"
@@ -104,6 +104,9 @@
                 },
                 {
                     "@id": ".git/logs/refs/remotes/origin/original"
+                },
+                {
+                    "@id": ".git/logs/refs/remotes/origin/lifemonitor-issue-f4919eacef26fa79781acb3a28b9f16bd6747898"
                 },
                 {
                     "@id": ".git/logs/refs/remotes/origin/main"
@@ -137,6 +140,9 @@
                 },
                 {
                     "@id": ".git/refs/remotes/origin/HEAD"
+                },
+                {
+                    "@id": ".git/refs/remotes/origin/lifemonitor-issue-f4919eacef26fa79781acb3a28b9f16bd6747898"
                 },
                 {
                     "@id": ".git/refs/remotes/origin/main"
@@ -246,11 +252,11 @@
             "@type": "Dataset"
         },
         {
-            "@id": ".git/objects/pack/pack-c7b014b13c8d11d5b4c2e693040a78c380a2cfaf.pack",
+            "@id": ".git/objects/pack/pack-5f6ca7f495bb6595fe3a0626c17816eb70e7ec8c.idx",
             "@type": "File"
         },
         {
-            "@id": ".git/objects/pack/pack-c7b014b13c8d11d5b4c2e693040a78c380a2cfaf.idx",
+            "@id": ".git/objects/pack/pack-5f6ca7f495bb6595fe3a0626c17816eb70e7ec8c.pack",
             "@type": "File"
         },
         {
@@ -283,6 +289,10 @@
         },
         {
             "@id": ".git/logs/refs/remotes/origin/original",
+            "@type": "File"
+        },
+        {
+            "@id": ".git/logs/refs/remotes/origin/lifemonitor-issue-f4919eacef26fa79781acb3a28b9f16bd6747898",
             "@type": "File"
         },
         {
@@ -327,6 +337,10 @@
         },
         {
             "@id": ".git/refs/remotes/origin/HEAD",
+            "@type": "File"
+        },
+        {
+            "@id": ".git/refs/remotes/origin/lifemonitor-issue-f4919eacef26fa79781acb3a28b9f16bd6747898",
             "@type": "File"
         },
         {
