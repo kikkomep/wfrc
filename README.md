@@ -1,3 +1,3 @@
-# Workflow Testing RO-Crate
+# MyWorkflow
 
-Example of Workflow Testing RO-Crate...
+description
