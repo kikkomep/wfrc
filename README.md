@@ -1,3 +1,3 @@
-# My Workflow RO-Crate
+# MyWorkflow
 
-Description
+description
