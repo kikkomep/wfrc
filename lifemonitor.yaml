@@ -1,6 +1,6 @@
 # worfklow name (override name defined on the RO-Crate metadata)
 # name: fragment-based-docking-scoring/main
-public: true
+public: false
 
 # Issue Checker Settings
 issues:
