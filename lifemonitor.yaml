@@ -21,9 +21,9 @@ on_push:
         #                                   # by the endpoint `<lifemonitor_url>/registries`
         #                                   # (e.g., https://api.lifemontor.eu/registries)
         - name: "main"
-          update_registries: [wfhubdev]
+          update_registries: []
         - name: "develop"
-          update_registries: [wfhubdev]
+          update_registries: []
 
     tags:
         # Define the list of tags to watch
