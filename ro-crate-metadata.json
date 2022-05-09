@@ -1,0 +1,99 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "datePublished": "2022-05-09T20:40:39+00:00",
+            "hasPart": [
+                {
+                    "@id": "test-data/"
+                },
+                {
+                    "@id": "CHANGELOG.md"
+                },
+                {
+                    "@id": "README.md"
+                },
+                {
+                    "@id": "fragment-based-docking-scoring-tests.yml"
+                },
+                {
+                    "@id": "fragment-based-docking-scoring.ga"
+                },
+                {
+                    "@id": "lifemonitor.yaml"
+                },
+                {
+                    "@id": "ro-crate-metadata.json.bck"
+                },
+                {
+                    "@id": "test-data/all-fragments.sdf"
+                },
+                {
+                    "@id": "test-data/candidates.smi"
+                },
+                {
+                    "@id": "test-data/receptor.pdb"
+                },
+                {
+                    "@id": "test-data/single-fragment.sdf"
+                }
+            ]
+        },
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            }
+        },
+        {
+            "@id": "test-data/",
+            "@type": "Dataset"
+        },
+        {
+            "@id": "CHANGELOG.md",
+            "@type": "File"
+        },
+        {
+            "@id": "README.md",
+            "@type": "File"
+        },
+        {
+            "@id": "fragment-based-docking-scoring-tests.yml",
+            "@type": "File"
+        },
+        {
+            "@id": "fragment-based-docking-scoring.ga",
+            "@type": "File"
+        },
+        {
+            "@id": "lifemonitor.yaml",
+            "@type": "File"
+        },
+        {
+            "@id": "ro-crate-metadata.json.bck",
+            "@type": "File"
+        },
+        {
+            "@id": "test-data/all-fragments.sdf",
+            "@type": "File"
+        },
+        {
+            "@id": "test-data/candidates.smi",
+            "@type": "File"
+        },
+        {
+            "@id": "test-data/receptor.pdb",
+            "@type": "File"
+        },
+        {
+            "@id": "test-data/single-fragment.sdf",
+            "@type": "File"
+        }
+    ]
+}
