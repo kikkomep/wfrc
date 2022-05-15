@@ -13,7 +13,7 @@ issues:
     
 
 # Github Integration Settings
-on_push:
+push:
     branches:
         # Define the list of branches to watch
         # - name: feature/XXX               # wildcards can be used to specify branches (e.g., feature/*)
