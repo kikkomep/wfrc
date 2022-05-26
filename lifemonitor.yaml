@@ -22,6 +22,7 @@ push:
         #                                   # (e.g., https://api.lifemontor.eu/registries)
         - name: "main"
           update_registries: []
+          enable_notifications: false
         - name: "develop"
           update_registries: []
 
