@@ -1,0 +1,2 @@
+SyntaxError in line 14 of /Users/kikkomep/Work/Crs4/Projects/EOSC-Life/Repositories/snakemake-workflow/workflow/Snakefile:
+Command must be given as string after the shell keyword. (Snakefile, line 14)
