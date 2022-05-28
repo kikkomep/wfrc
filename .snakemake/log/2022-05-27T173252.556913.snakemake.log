@@ -1,0 +1,21 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job stats:
+job      count    min threads    max threads
+-----  -------  -------------  -------------
+all          1              1              1
+total        1              1              1
+
+Select jobs to execute...
+
+[Fri May 27 17:32:53 2022]
+rule all:
+    jobid: 0
+    resources: tmpdir=/var/folders/p7/lsc65hzs70j7mvh07z08bk880000gn/T
+
+[Fri May 27 17:32:53 2022]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /Users/kikkomep/Work/Crs4/Projects/EOSC-Life/Repositories/snakemake-workflow/.snakemake/log/2022-05-27T173252.556913.snakemake.log
