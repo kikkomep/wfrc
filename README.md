@@ -4,8 +4,7 @@
 [![GitHub actions status](https://github.com/kikkomep/wfrc/workflows/Tests/badge.svg?branch=main)](https://github.com/kikkomep/wfrc/actions?query=branch%3Amain+workflow%3ATests)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-description
+Description
 
 ## Usage
 
